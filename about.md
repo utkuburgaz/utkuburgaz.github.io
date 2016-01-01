@@ -5,5 +5,5 @@ permalink: /about/
 ---
 
 
-I'm an Engineer. I love to design and build stuff.
-Based in Ankara, TURKEY.
+I'm an Engineer Based in Ankara, TURKEY. I love to design and build stuff.
+
