@@ -21,6 +21,6 @@ BurgBot features:
 * Robust body less vulnerable to vibrations and allows easy carrying  
 * Spool holder mounted right at the top of the extruder
 
-![my](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+![All_plywood_3d_printer_0](utkuburgaz.github.io/images/All_plywood_3d_printer_0.jpg)
 
-![printer](/images/All_plywood_3d_printer_1.jpg)
+![All_plywood_3d_printer_1](/images/All_plywood_3d_printer_1.jpg)
