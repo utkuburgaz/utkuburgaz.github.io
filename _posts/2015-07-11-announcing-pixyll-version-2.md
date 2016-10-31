@@ -1,16 +1,23 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
+title:      All Plywood Prusa Upgrade 3D Printer: BurgBot
+date:       2016-10-31
+summary:    An upgraded version of Prusa i3 3D Printer with interlocking plywood body parts.
 categories: jekyll pixyll
 ---
 
-In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
+In an effort to make a robust and easy to setup Prusa i3 version I designed this by using SolidWorks 3D design software.
 
-Pixyll now features:
+BurgBot features:
 
-* Line anchors in code blocks and new syntax highlighting
-* A customizable variables file
-* Modular, and lighter weight CSS
-* No more `max-width` media queries
+* All plywood bodyparts, easy to set up with interlocking parts
+* Panel mounted onboard LCD screen
+* Onboard power source
+* Onboard RAMPS controller board
+* USB hub
+* Direct drive extruder
+* Heatbed with heat-resistant glass build plate
+* Power socket and on/off button
+* Robust body less vulnerable to vibrations and allows easy carrying  
+* Spool holder mounted right at the top of the extruder
+
