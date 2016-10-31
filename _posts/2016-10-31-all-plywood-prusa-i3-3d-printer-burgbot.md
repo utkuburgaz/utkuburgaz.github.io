@@ -23,4 +23,4 @@ BurgBot features:
 
 ![my](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
 
-![printer](utkuburgaz.github.io/images/All_plywood_3d_printer_1.jpg)
+![printer](/images/All_plywood_3d_printer_1.jpg)
