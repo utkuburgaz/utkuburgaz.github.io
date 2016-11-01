@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      All Plywood Prusa Upgrade 3D Printer; BurgBot
+title:      All Plywood 3D Printer, a Prusa i3 Upgrade ; BurgBot
 date:       2016-10-31
 summary:    An upgraded version of Prusa i3 3D Printer with interlocking plywood body parts.
 categories: jekyll pixyll
 ---
 
-In an effort to make a robust and easy to setup Prusa i3 version I designed this by using SolidWorks 3D design software.
+In an effort to make a robust and easy to setup Prusa i3 version I designed this by using SolidWorks 3D design software. I called it BurgBot Inventor :)
 
 BurgBot features:
 
