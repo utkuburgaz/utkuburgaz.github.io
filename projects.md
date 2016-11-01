@@ -1,9 +1,9 @@
 ---
-layout: default 
+layout: page 
 title: Projects
 permalink: /projects/
 ---
-
+{{page.title}}
 
 * Project 1
 * Project 2
