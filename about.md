@@ -1,17 +1,12 @@
 ---
 layout: page
+title: About Me
+permalink: /about/
 ---
 
 
-<div class="post">
-  <header class="post-header">
-    <h1 class="h2">About Me</h1>
-  </header>
-  <article class="post-content">
   I'm an engineer based in Ankara, Turkey. 
 
   I love to design and build stuff.
 
   Contact me at [linkedin](https://tr.linkedin.com/in/utkuburgaz)
-  </article>
-</div>
