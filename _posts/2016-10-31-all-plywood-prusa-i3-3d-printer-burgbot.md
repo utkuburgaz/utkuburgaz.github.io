@@ -8,6 +8,8 @@ categories: jekyll pixyll
 
 In an effort to make a robust and easy to setup Prusa i3 version I designed this by using SolidWorks 3D design software. I called it BurgBot Inventor :)
 
+Please visit GitHub project to start building your own [link](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot)
+
 BurgBot features:
 
 * All plywood bodyparts, easy to set up with interlocking parts
