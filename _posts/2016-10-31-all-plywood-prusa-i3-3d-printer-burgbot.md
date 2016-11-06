@@ -26,3 +26,5 @@ BurgBot features:
 ![All_plywood_3d_printer_0](/images/All_plywood_3d_printer_0.jpg)
 
 ![All_plywood_3d_printer_1](/images/All_plywood_3d_printer_1.jpg)
+
+![All_plywood_3d_printer_2](/images/BurgBot_Inventor_v.1.1.jpg)
