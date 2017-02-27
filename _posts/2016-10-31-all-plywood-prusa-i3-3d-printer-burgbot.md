@@ -2,7 +2,7 @@
 layout:     post
 title:      All Plywood 3D Printer, a Prusa i3 Upgrade ; BurgBot
 date:       2016-10-31
-summary:    An upgraded version of Prusa i3 3D Printer with laser cut interlocking plywood body parts.
+summary:    An upgraded version of Prusa i3 3D Printer with laser cut interlocking plywood body parts for garage inventors.
 categories: jekyll pixyll
 ---
 
