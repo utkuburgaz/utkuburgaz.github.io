@@ -2,7 +2,7 @@
 layout:     post
 title:      All Plywood 3D Printer, a Prusa i3 Upgrade ; BurgBot
 date:       2016-10-31
-summary:    An upgraded version of Prusa i3 3D Printer with interlocking laser cut plywood body parts.
+summary:    An upgraded version of Prusa i3 3D Printer with laser cut interlocking plywood body parts.
 categories: jekyll pixyll
 ---
 
@@ -20,7 +20,7 @@ BurgBot features:
 * Direct drive extruder
 * Heatbed with heat-resistant glass build plate
 * Power socket and on/off button
-* Robust body less vulnerable to vibrations and allows easy carrying  
+* Robust body less vulnerable to vibrations and allows easy handling  
 * Spool holder mounted right at the top of the extruder
 
 ![All_plywood_3d_printer_0](/images/All_plywood_3d_printer_0.jpg)
