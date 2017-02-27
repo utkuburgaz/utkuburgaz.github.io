@@ -16,7 +16,7 @@ BurgBot features:
 * Panel mounted onboard LCD screen
 * Onboard power source
 * Onboard RAMPS controller board
-* USB hub
+* USB hub for data transport
 * Direct drive extruder
 * Heatbed with heat-resistant glass build plate
 * Power socket and on/off button
