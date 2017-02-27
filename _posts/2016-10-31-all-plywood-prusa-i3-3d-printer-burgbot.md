@@ -12,7 +12,7 @@ Please visit GitHub project to start building your own, [go to project](https://
 
 BurgBot features:
 
-* All plywood bodyparts, easy to set up with interlocking parts
+* Laser cut all plywood bodyparts, easy to set up with interlocking parts
 * Panel mounted onboard LCD screen
 * Onboard power source
 * Onboard RAMPS controller board
