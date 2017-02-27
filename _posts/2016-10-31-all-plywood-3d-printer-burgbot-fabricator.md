@@ -2,7 +2,7 @@
 layout:     post
 title:      All Plywood 3D Printer; BurgBot Fabricator
 date:       2017-02-27
-summary:    3D Printer with interlocking plywood body parts.
+summary:    3D Printer with laser cut interlocking plywood body parts for garage fabricators.
 categories: jekyll pixyll
 ---
 
