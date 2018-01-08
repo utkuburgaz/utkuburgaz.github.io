@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      Reverse lookup search engine for Aluminum designations; AluData
+date:       2017-9-15
+summary:    There are more than 500 Aluminum designations. You can reverse lookup with a spectral analysis to find the Aluminum designation you have.
+categories: jekyll pixyll
+---
+
+In an effort to make a robust and easy to setup Prusa i3 version I designed this by using SolidWorks 3D design software. I called it BurgBot Inventor :)
+
+Please visit GitHub project to start building your own, [go to project](http://utkuburgaz.com/aludata)
+
+BurgBot features:
+
+* Laser cut all plywood bodyparts, easy to set up with interlocking parts
+* Panel mounted onboard LCD screen
+* Onboard power source
+* Onboard RAMPS controller board
+* USB hub for data transport
+* Direct drive extruder
+* Heatbed with heat-resistant glass build plate
+* Power socket and on/off button
+* Robust body less vulnerable to vibrations and allows easy handling  
+* Spool holder mounted right at the top of the extruder
+
+![All_plywood_3d_printer_0](/images/All_plywood_3d_printer_0.jpg)
+
+![All_plywood_3d_printer_1](/images/All_plywood_3d_printer_1.jpg)
+
+![All_plywood_3d_printer_2](/images/BurgBot_Inventor_v.1.1.jpg)
